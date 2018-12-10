@@ -5,8 +5,5 @@ public class LoginController {
 		String name = "qwer";
 		String age = "0000 0001";
 		System.out.println(name + "---" + age);
-		
-		
-		
 	}
 }
