@@ -8,4 +8,8 @@ public class LoginController {
 		
 		
 	}
+	
+	public void left() {
+		System.out.println("left");
+	}
 }
