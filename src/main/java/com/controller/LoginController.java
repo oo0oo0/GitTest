@@ -2,6 +2,8 @@ package com.controller;
 
 public class LoginController {
 	public static void main(String[] args) {
-		System.out.println("--------");
+		String name = "qwer";
+		System.out.println("--left-" + name);
+		
 	}
 }
