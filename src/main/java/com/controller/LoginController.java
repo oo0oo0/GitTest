@@ -4,7 +4,7 @@ public class LoginController {
 	public static void main(String[] args) {
 		String name = "qwer";
 		int age = 1;
-		System.out.println(name + "---" + age);
+		System.out.println(name + "-------" + age);
 		
 		
 	}
